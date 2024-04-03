@@ -1,6 +1,6 @@
-# Bioinformatics Toolkit Cheat Sheet
+# Bioinformatics Hub Cheat Sheet
 
-Welcome to the Bioinformatics Toolkit Cheat Sheet! This guide provides a quick overview of essential data types, formats, and tools used in bioinformatics. It's designed to help beginners and experts alike navigate the complex world of bioinformatics with ease.
+Welcome to the Bioinformatics Hub Cheat Sheet! This guide provides a quick overview of essential data types, formats, and tools used in bioinformatics. It's designed to help beginners and experts alike navigate the complex world of bioinformatics with ease.
 
 ## Data Types & Formats
 
