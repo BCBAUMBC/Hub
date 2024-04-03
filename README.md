@@ -53,6 +53,12 @@ Welcome to the Bioinformatics Toolkit Cheat Sheet! This guide provides a quick o
 - **MAFFT**  
   Another widely used tool for sequence alignments, known for its speed and efficiency.  
   [Visit MAFFT](https://mafft.cbrc.jp/alignment/software/)
+  
+### Sequence Clustering and Searching
+
+- **MMseqs2 (Many-against-Many sequence searching)**  
+  Fast and sensitive searching and clustering of large protein sequence datasets.  
+  [Visit MMseqs2](https://github.com/soedinglab/MMseqs2)
 
 ### Structural Biology
 
@@ -104,8 +110,3 @@ Welcome to the Bioinformatics Toolkit Cheat Sheet! This guide provides a quick o
   An open-source project that provides tools for the analysis and comprehension of high-throughput genomic data.  
   [Visit Bioconductor](https://www.bioconductor.org/)
 
-### Sequence Clustering and Searching
-
-- **MMseqs2 (Many-against-Many sequence searching)**  
-  Fast and sensitive searching and clustering of large protein sequence datasets.  
-  [Visit MMseqs2](https://github.com/soedinglab/MMseqs2)
