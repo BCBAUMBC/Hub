@@ -12,14 +12,6 @@ Welcome to the Bioinformatics Toolkit Cheat Sheet! This guide provides a quick o
   Stores sequences and their quality scores. Used in high-throughput sequencing.  
   [More Info](https://en.wikipedia.org/wiki/FASTQ_format)
 
-- **PDB (Protein Data Bank)**  
-  Stores 3D structures of molecules; widely used for proteins, nucleic acids, and complex assemblies.  
-  [Visit PDB](https://www.rcsb.org/)
-
-- **GenBank**  
-  The NIH genetic sequence database, an annotated collection of all publicly available DNA sequences.  
-  [Visit GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
-
 - **SAM/BAM**  
   Sequence Alignment/Map format; BAM is the binary version of SAM. Used for storing large nucleotide sequence alignments.  
   [More Info](https://samtools.github.io/hts-specs/)
@@ -62,6 +54,10 @@ Welcome to the Bioinformatics Toolkit Cheat Sheet! This guide provides a quick o
 
 ### Structural Biology
 
+- **PDB (Protein Data Bank)**  
+  Stores 3D structures of molecules; widely used for proteins, nucleic acids, and complex assemblies.  
+  [Visit PDB](https://www.rcsb.org/)
+
 - **PyMOL**  
   An open-source molecular visualization tool.  
   [Visit PyMOL](https://pymol.org/2/)
@@ -78,6 +74,10 @@ Welcome to the Bioinformatics Toolkit Cheat Sheet! This guide provides a quick o
 
 ### Genome Analysis
 
+- **GenBank**  
+  The NIH genetic sequence database, an annotated collection of all publicly available DNA sequences.  
+  [Visit GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
+  
 - **BEDTools**  
   A powerful tool for genome arithmetic; it allows one to compare, manipulate, and annotate genomic features in BED format.  
   [Visit BEDTools](https://bedtools.readthedocs.io/en/latest/)
